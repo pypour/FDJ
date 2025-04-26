@@ -5,7 +5,7 @@ This solution is a .NET 8-based API designed to handle currency exchange operati
 Currency Conversion: Get the exchange rate from 3rd party API and Convert amounts from one currency to another.
 
 ## Installation
-git clone 
+git clone https://github.com/pypour/FDJ.git
 
 ## Config
 ExchangeRateConfig: you should set 3rd party information in the config file (appSettings.json) in Assessment.API. You can change CacheTime in config to optimise the round trip to 3rd party.
